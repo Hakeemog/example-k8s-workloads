@@ -15,6 +15,8 @@ These are the workloads and the kind of Kubernetes resource that serves them bes
 
 ## Follow Along 
 If you'd like to watch a talk that uses the example-website, check out the video https://youtu.be/SoByggox15g
+
+
 If you'd like to watch a talk that uses the example-api, check out the video [How to Deploy Your Application or Microservice on Kubernetes](https://www.digitalocean.com/community/tech_talks/how-to-deploy-your-application-or-microservice-as-a-kubernetes-deployment). 
 
 If you'd like to see the DaemonSet and Job in action, see the video [Deploying Microservices as Kubernetes DaemonSets and Jobs](https://www.digitalocean.com/community/tech_talks/deploying-microservices-as-kubernetes-daemonsets-and-jobs).
